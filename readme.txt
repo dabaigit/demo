@@ -1,6 +1,6 @@
 randme 1
 readme 2
-readme 3
+readme 3	here is a bug
 readme 4
 readme 5
 readme 6 is erro
